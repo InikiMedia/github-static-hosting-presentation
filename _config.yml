@@ -9,10 +9,10 @@ keywords: "github, github-pages, websites, static gen, hosting, html, gh-pages"
 url: "https://inikimedia.github.io/github-static-hosting-presentation/" 
 
 # author settings for cc-by
-author: evan will
-github_username: evanwill
+author: Iniki Media
+github_username: InikiMedia
 pub_year: 2017
-repo: "https://github.com/evanwill/go-go-ghpages"
+repo: "https://github.com/InikiMedia/github-static-hosting-presentation"
 
 google_analytics:
 
